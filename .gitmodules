@@ -1,0 +1,6 @@
+[submodule "iot-edge"]
+	path = iot-edge
+	url = https://github.com/Azure/iot-edge.git
+[submodule "Lib/iot-edge"]
+	path = Lib/iot-edge
+	url = https://github.com/Azure/iot-edge.git
