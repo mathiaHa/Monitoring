@@ -4,3 +4,6 @@
 [submodule "Lib/azure-iot-sdk-csharp"]
 	path = Lib/azure-iot-sdk-csharp
 	url = https://github.com/Azure/azure-iot-sdk-csharp.git
+[submodule "Lib/iothub-explorer"]
+	path = Lib/iothub-explorer
+	url = https://github.com/Azure/iothub-explorer.git
