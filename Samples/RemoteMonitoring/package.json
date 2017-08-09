@@ -1,0 +1,19 @@
+{
+  "name": "remotemonitoring",
+  "version": "1.0.0",
+  "description": "Add a real device to IoT Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiaHa/Monitoring/Samples/RemoteMonitoring"
+  },
+  "author": "Mathia Haure Touze",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.1.17",
+    "azure-iot-device-mqtt": "^1.1.17"
+  }
+}
