@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMBoxViewer", "DMBoxViewer\DMBoxViewer.csproj", "{9FE5F793-0732-4B3C-917F-2B577AA55BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLittleHistorian", "MyLittleHistorian\MyLittleHistorian.csproj", "{F10082C4-CEC5-4BDA-9CEA-070536B4FB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE5F793-0732-4B3C-917F-2B577AA55BAA}.Debug|x86.ActiveCfg = Debug|x86
+		{9FE5F793-0732-4B3C-917F-2B577AA55BAA}.Debug|x86.Build.0 = Debug|x86
+		{9FE5F793-0732-4B3C-917F-2B577AA55BAA}.Release|x86.ActiveCfg = Release|x86
+		{9FE5F793-0732-4B3C-917F-2B577AA55BAA}.Release|x86.Build.0 = Release|x86
+		{F10082C4-CEC5-4BDA-9CEA-070536B4FB64}.Debug|x86.ActiveCfg = Debug|x86
+		{F10082C4-CEC5-4BDA-9CEA-070536B4FB64}.Debug|x86.Build.0 = Debug|x86
+		{F10082C4-CEC5-4BDA-9CEA-070536B4FB64}.Release|x86.ActiveCfg = Release|x86
+		{F10082C4-CEC5-4BDA-9CEA-070536B4FB64}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
