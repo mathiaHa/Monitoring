@@ -1,9 +1,9 @@
 [submodule "Lib/iot-edge"]
 	path = Lib/iot-edge
 	url = https://github.com/Azure/iot-edge.git
-[submodule "Lib/azure-iot-sdk-csharp"]
-	path = Lib/azure-iot-sdk-csharp
-	url = https://github.com/Azure/azure-iot-sdk-csharp.git
 [submodule "Lib/iothub-explorer"]
 	path = Lib/iothub-explorer
 	url = https://github.com/Azure/iothub-explorer.git
+[submodule "Lib/azure-iot-sdk-node"]
+	path = Lib/azure-iot-sdk-node
+	url = https://github.com/Azure/azure-iot-sdk-node.git

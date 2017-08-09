@@ -286,3 +286,4 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+Samples/iot-hub-node-raspberrypi-getting-started/
