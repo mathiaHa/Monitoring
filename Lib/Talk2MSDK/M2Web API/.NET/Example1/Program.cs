@@ -26,7 +26,7 @@ namespace Example1
             {
                 var m2web = new M2Web
                 {
-                    Talk2MDevId = "TODO",
+                    Talk2MDevId = "245597d7-078f-4d72-9236-c351d95cb5a6",
                     AccountName = "patrice_airicom",
                     Username = "alpiq",
                     Password = "alpiq92521",

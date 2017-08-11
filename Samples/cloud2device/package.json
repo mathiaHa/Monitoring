@@ -1,0 +1,19 @@
+{
+  "name": "cloud2device",
+  "version": "1.0.0",
+  "description": "Send data from the iothub and ask to the device information about the sensor and about the gateway itself.",
+  "main": "send_c2d.js",
+  "scripts": {
+    "test": "node send_c2d.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiaHa/Monitoring.git"
+  },
+  "author": "Mathia Haure-Touzé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathiaHa/Monitoring/issues"
+  },
+  "homepage": "https://github.com/mathiaHa/Monitoring#readme"
+}

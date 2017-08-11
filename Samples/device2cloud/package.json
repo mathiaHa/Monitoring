@@ -1,0 +1,19 @@
+{
+  "name": "device2cloud",
+  "version": "1.0.0",
+  "description": "Application that send stream of data stored on the device. Data represents several sensor in a fictive site: tension, phase and temperature.",
+  "main": "simulate_data.js",
+  "scripts": {
+    "test": "node simulate_data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiaHa/Monitoring.git"
+  },
+  "author": "Mathia Haure-Touzé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathiaHa/Monitoring/issues"
+  },
+  "homepage": "https://github.com/mathiaHa/Monitoring#readme"
+}
